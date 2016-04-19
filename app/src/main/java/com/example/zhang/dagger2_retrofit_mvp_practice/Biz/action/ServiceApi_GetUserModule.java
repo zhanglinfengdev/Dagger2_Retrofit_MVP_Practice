@@ -16,7 +16,7 @@ import retrofit.client.OkClient;
 @Module
 public class ServiceApi_GetUserModule {
 
-    private static final String ROOT_PATH = "http：//www.coolplay:8080.com";
+    private static final String ROOT_PATH = "http：//www.baidu.com";
 
     @Provides
     OkHttpClient provdesOkHttpClient()
